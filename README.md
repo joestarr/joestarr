@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joestarr
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning React.Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
